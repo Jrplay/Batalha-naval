@@ -5,8 +5,8 @@
  * Objetivo: representar um tabuleiro usando vetores (array 1D)
  *           e posicionar navios horizontais usando loops.
  *
- * Autor: [Seu Nome]
- * Data: [coloque a data]
+ * Autor: [Clovis Junior]
+ * Data: [29/10/2025]
  *
  * Explicação rápida:
  * - O tabuleiro é uma linha de N casas (vetor de chars).
@@ -119,4 +119,5 @@ int main() {
     printf("\nTotal de casas ocupadas por navios: %d\n", partesNavio);
 
     return 0;
+
 }
